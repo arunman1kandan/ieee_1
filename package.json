@@ -1,7 +1,8 @@
 {
-  "homepage" : "https://arunman1lkandan.github.io/IEEE",
+  
   "name": "ieee_sb",
   "version": "0.1.0",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

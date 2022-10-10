@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 module.exports = {
   sociteies: [
     {
@@ -74,80 +74,3 @@ module.exports = {
     },
   ],
 };
-=======
-module.exports = {
-  sociteies: [
-    {
-      name:"APS",
-      fullName:"Antennas & Propagation Society",
-      imageUrl:"https://lh3.googleusercontent.com/drive-viewer/AJc5JmTVd6alCu9j_NFwjo99xSqUOLJUuMZ74ScIppxu6SW8ULUPpN4o-dZW2_jbDryqxLlhrY5CA60=w1868-h952",
-      websiteUrl:"https://edu.ieee.org/in-sairamit",
-      branchChapter: "SIT - Student Branch Chapter",
-    },
-    {
-      name: "PES",
-      fullName: "POWER & ENERY SOCIETY",
-      imageUrl: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmSXRu9IpdC_G4NLn5xzasVTXdtpyGUit1cCRPD1RDu0zNlmqzaHl_0-NkuY9Q4SWyPUFYZ4otU=w1868-h952",
-      websiteUrl: "https://edu.ieee.org/in-sairamitpes/",
-      branchChapter: "SIT - Student Branch Chapter",
-      color: "#025a00",
-    },
-    {
-      name: "EDS",
-      fullName: "Electron Devices SOCIETY",
-      imageUrl: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmT0svV-yHGwXyakPhI1PVL8uLbkewwfzkJByi1aN7s9H8GbQM3x4KqwshBu7HLuDS0M8T7Vozo=w1868-h952",
-      websiteUrl: "https://edu.ieee.org/in-sairamiteds/",
-      branchChapter: "SIT - Student Branch Chapter",
-      color: "#0D6AA0",
-    },
-    {
-      name: "CS",
-      fullName: "Computer Society",
-      imageUrl: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmTvPQAklz3-S3xKEvnYyunijrKiRLdpSBW-Pba_1KqHtkBZ9mggUFN-GzdoS8ugh3RzYkME8f4=w1868-h952",
-      websiteUrl: "https://edu.ieee.org/in-sairamitcs/",
-      branchChapter: "SIT - Student Branch Chapter",
-      color: "#010101",
-    },
-    {
-      name: "CIS",
-      fullName: "Computational Intelligence Society",
-      imageUrl: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmQ-aXNFxKsKCZGtks81unLHtfiEHwP1N0gHTNmb5XigQViZNtySOg0t9E9oGxaZzasRCkKu1Pc=w1868-h952",
-      websiteUrl: "https://edu.ieee.org/in-sairamitcis/",
-      branchChapter: "SIT - Student Branch Chapter",
-      color: "#010101",
-    },
-    {
-      name: "BTS",
-      fullName: "Broadcast Technology Society",
-      imageUrl: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmR5HT6601j6yZE73gTQ7PEhKlRQ4J1OCithAHsieO2VH4MaYUAIWzEMl_FVNlcbB6L8O6t8jlk=w1868-h952",
-      websiteUrl: "https://edu.ieee.org/in-sairamitbts/",
-      branchChapter: "SIT - Student Branch Chapter",
-      color: "#E40721",
-    },
-    {
-      name: "WIE",
-      fullName: "Women in Engineering",
-      imageUrl: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmS94jtJWhmxTlenoeU0TttjcsgXGQySyjIN2o9H7SzBEgyrbNwN9nEIvfubZXNTEWjiJxhdaiI=w1868-h952",
-      websiteUrl: "https://edu.ieee.org/in-sairamitwie/",
-      branchChapter: "SIT - Student Branch Chapter",
-      color: "#6A2D7B",
-    },
-    {
-      name: "RAS",
-      fullName: "Robotics & Automation Society",
-      imageUrl: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmSo-pL8ds0GicmscnIY-VRJoKug3Oyp-6BJ366vQbKpNvhcaTLCFv3HOOpWRNuqc6TQtBCp_jE=w1868-h952",
-      websiteUrl: "https://edu.ieee.org/in-sairamitras/",
-      branchChapter: "SIT - Student Branch Chapter",
-      color: "#61116A",
-    },
-    {
-      name: "CT",
-      fullName: "Consumer Technology",
-      imageUrl: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmR3FLusPvHFfPNhqZVJAX1Vsde9a0htAIHiG-Qjr8HI7Oq3yVP6lgFkm6Df68ZuzgDy7HuG-Ic=w1868-h952",
-      websiteUrl: "https://edu.ieee.org/in-sairamitct/",
-      branchChapter: "SIT - Student Branch Chapter",
-      color: "#0D6AA0",
-    },
-  ],
-};
->>>>>>> 9212bdaabe56751ef231df7edcf22b652fef73cc
